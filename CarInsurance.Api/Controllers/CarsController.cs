@@ -30,6 +30,10 @@ public class CarsController(CarService service) : ControllerBase
         {
             return NotFound();
         }
+        catch (ArgumentException)
+        {
+            return BadRequest();
+        }
     }
 
     [HttpPost("cars/{carId}/claims")]

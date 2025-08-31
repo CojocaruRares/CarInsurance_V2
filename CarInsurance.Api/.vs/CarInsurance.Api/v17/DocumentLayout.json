@@ -3,6 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22CE536E-5A99-401C-9E09-894E9FA07272}|..\\CarInsurance.Tests\\CarInsurance.Tests.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.tests\\carcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE536E-5A99-401C-9E09-894E9FA07272}|..\\CarInsurance.Tests\\CarInsurance.Tests.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.tests\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,18 +25,8 @@
       "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.api\\services\\expiredpolicylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\expiredpolicylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22CE536E-5A99-401C-9E09-894E9FA07272}|..\\CarInsurance.Tests\\CarInsurance.Tests.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.tests\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22CE536E-5A99-401C-9E09-894E9FA07272}|..\\CarInsurance.Tests\\CarInsurance.Tests.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.tests\\carcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22CE536E-5A99-401C-9E09-894E9FA07272}|..\\CarInsurance.Tests\\CarInsurance.Tests.csproj|c:\\users\\penta\\desktop\\carinsurance.api\\carinsurance.tests\\carinsurancewebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:49:18.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:49:18.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CarServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Tests\\CarServiceTests.cs",
               "RelativeDocumentMoniker": "..\\CarInsurance.Tests\\CarServiceTests.cs",
@@ -77,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ExpiredPolicyLogger.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ExpiredPolicyLogger.cs",
               "RelativeDocumentMoniker": "Services\\ExpiredPolicyLogger.cs",
@@ -85,18 +84,17 @@
               "RelativeToolTip": "Services\\ExpiredPolicyLogger.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAADAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:43:01.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:43:01.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CarControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Tests\\CarControllerTests.cs",
               "RelativeDocumentMoniker": "..\\CarInsurance.Tests\\CarControllerTests.cs",
               "ToolTip": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Tests\\CarControllerTests.cs",
               "RelativeToolTip": "..\\CarInsurance.Tests\\CarControllerTests.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wBYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T11:39:46.825Z",
               "EditorCaption": ""
@@ -111,12 +109,11 @@
               "RelativeToolTip": "..\\CarInsurance.Tests\\CarInsuranceWebApplicationFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:26:33.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:26:33.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Dtos.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Dtos\\Dtos.cs",
               "RelativeDocumentMoniker": "Dtos\\Dtos.cs",
@@ -124,31 +121,30 @@
               "RelativeToolTip": "Dtos\\Dtos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:28:48.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:28:48.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CarsController.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
               "ToolTip": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Controllers\\CarsController.cs",
               "RelativeToolTip": "Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T12:21:31.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarService.cs",
               "RelativeDocumentMoniker": "Services\\CarService.cs",
               "ToolTip": "C:\\Users\\penta\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarService.cs",
               "RelativeToolTip": "Services\\CarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T10:26:05.413Z",
               "EditorCaption": ""
