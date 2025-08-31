@@ -8,7 +8,6 @@ namespace CarInsurance.Api.Services
         private readonly IServiceScopeFactory _scopeFactory;
         private readonly ILogger<ExpiredPolicyLogger> _logger;
         private readonly TimeSpan _interval = TimeSpan.FromHours(1);
-        private readonly HashSet<long> _processedPolicyIds = new HashSet<long>();
 
         public ExpiredPolicyLogger(IServiceScopeFactory scopeFactory, ILogger<ExpiredPolicyLogger> logger)
         {
@@ -34,7 +33,6 @@ namespace CarInsurance.Api.Services
                     foreach (var policy in expiredPolicies)
                     {
                         _logger.LogInformation("Policy {PolicyId} has expired on {EndDate}", policy.Id, policy.EndDate);
-                        _processedPolicyIds.Add(policy.Id);
                         policy.IsLogged = true;
                     }
                     await db.SaveChangesAsync();
