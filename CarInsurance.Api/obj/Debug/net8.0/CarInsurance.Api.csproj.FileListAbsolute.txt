@@ -155,3 +155,4 @@ C:\Users\penta\Desktop\CarInsurance.Api\CarInsurance.Api\bin\Debug\net8.0\ru\Mic
 C:\Users\penta\Desktop\CarInsurance.Api\CarInsurance.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\penta\Desktop\CarInsurance.Api\CarInsurance.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\penta\Desktop\CarInsurance.Api\CarInsurance.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\penta\Desktop\CarInsurance.Api\CarInsurance.Api\obj\Debug\net8.0\CarInsurance.Api.sourcelink.json
