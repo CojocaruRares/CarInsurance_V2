@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4eYvkrY+r+v80H8FLj1DYfLhu+SNhMEg3g6DXVHyFFY=",
+  "Source": "CarInsurance.Api",
+  "BasePath": "_content/CarInsurance.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
